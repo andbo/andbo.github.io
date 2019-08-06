@@ -26,7 +26,9 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://andbo.github.io/"
 collections:
-  - azure
+  azure:
+    output: true
+    permalink: /azure/:path/
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
