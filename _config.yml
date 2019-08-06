@@ -20,11 +20,13 @@ description: A short site about data and other stuff
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "resume"
+  Azure: "azure"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://andbo.github.io/"
+collections:
   azure:
     output: true
     permalink: /azure/:path/
