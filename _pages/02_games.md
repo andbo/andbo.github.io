@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Games
+subtitle: Playing to win and have fun
 permalink: /games/
 ---
 
