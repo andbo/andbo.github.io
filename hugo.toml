@@ -1,0 +1,4 @@
+baseURL = 'https://andbo.dk/'
+languageCode = 'en-us'
+title = 'andbo.dk'
+theme = 'ananke'
